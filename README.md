@@ -23,7 +23,7 @@ This is a Python tool that assesses the strength of a password based on criteria
 
 1. *Clone the repository*:
 
-   git clone 
+   git clone https://github.com/Anasmc24/PRODIGY_CS_03/tree/main
    cd password-strength-checker
 
 2.*Ensure Tkinter is installed*:
